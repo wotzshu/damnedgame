@@ -6,37 +6,37 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="damnedgame.jpg" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Damned Game, official website."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@MusicMaker" />
-          <meta name="twitter:creator" content="@MusicMaker" />
-          <meta property="og:url" content="https://musicmaker.vercel.app" />
+          <meta name="twitter:site" content="@Damned" />
+          <meta name="twitter:creator" content="@Damned" />
+          <meta property="og:url" content="https://damnedgame.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="MusicMaker" />
+          <meta property="og:title" content="Damned" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="damnedgame.jpg"
             type="image/x-icon"
           />
           <meta
             property="og:description"
-            content="How about listening to music without pausing? Create your own playlists with 750+ supported sound platforms and start listening."
+            content="Damned Game, official website."
           />
-          <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="MusicMaker" />
+          <meta property="og:image" content="damnedgame.png" />
+          <meta property="og:image:alt" content="Damned" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="MusicMaker"
+            content="Damned"
           />
           <meta name="theme-color" content="#087ddd" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="damnedgame.jpg" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
