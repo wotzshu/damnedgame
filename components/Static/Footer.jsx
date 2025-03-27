@@ -12,7 +12,7 @@ export default function Footer() {
                         <div className="col-span-3">
                             <div className="flex items-center space-x-5">
                                 <img src="/img/logo2.png" className="rounded-full w-12" />
-                                <p className="font-semibold text-xl text-white">Damned</p>
+                                <p className="font-semibold text-xl text-white">ChronoRift</p>
                             </div>
                             <Menu as="div" className="relative mt-3 inline-block text-left">
                                 <div>
@@ -97,15 +97,15 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; Damned
+                            {new Date().getFullYear()} &copy; ChronoRift
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    Damned Game
+                                    ChronoRift
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
-                            {"Powered by Akrap0 ❤️"}
+                            {"Powered by Jack17 ❤️"}
                         </p>
                     </div>
                 </div>
