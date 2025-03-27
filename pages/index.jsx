@@ -13,7 +13,7 @@ export default function Index() {
           ChronoRift
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       Damned is a 16-bit style, action exploration platformer, about a paladin and her fight against evil. Inspired by classic metroidvania games, you will discover new abilities, fight deadly creatures, and explore a handcrafted world created in a retro pixel art style. 
+       ChronoRift features a massive, fully explorable open world. But this world is not just horizontal, it also expands temporally. Players can travel through versions of the same location from different time periods. An abandoned ruin in one era may be a glorious empire in the past.
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -81,11 +81,11 @@ export default function Index() {
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://media.discordapp.net/attachments/737347015251460156/1313966525111074836/image.png?ex=67520e2f&is=6750bcaf&hm=42cac37cae7dbf90e6a5e0804fcfaf0575adbdec3a14078fb2597caa9f0c5033&=&format=webp&quality=lossless&width=687&height=421"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src=""  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Offer</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Damned, the demo version is now completely free on the official website. Download now and start playing!</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">You can play the early access mode of the ChronoRift game right now! Don't miss the limited time offer.</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/737347015251460156/1313966525111074836/image.png?ex=67520e2f&is=6750bcaf&hm=42cac37cae7dbf90e6a5e0804fcfaf0575adbdec3a14078fb2597caa9f0c5033&=&format=webp&quality=lossless&width=687&height=421" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
