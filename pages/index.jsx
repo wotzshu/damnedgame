@@ -10,7 +10,7 @@ export default function Index() {
       <img width="500" src="" />
       </div>
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
-          Damned
+          ChronoRift
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        Damned is a 16-bit style, action exploration platformer, about a paladin and her fight against evil. Inspired by classic metroidvania games, you will discover new abilities, fight deadly creatures, and explore a handcrafted world created in a retro pixel art style. 
@@ -23,7 +23,7 @@ export default function Index() {
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Download Damned
+          Download ChronoRift
               </a>
               </Link>
         </div>
@@ -40,10 +40,10 @@ export default function Index() {
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
-            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"Damned" }} />
-            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
+            <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"ChronoRift" }} />
+            <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about playing ChronoRift, a 3D story game with a huge open world?" }}/>
             <a href="https://cdn.discordapp.com/attachments/1353719702416785428/1354132967362138113/Damned_Setup_1.0.0.exe?ex=67e42e19&is=67e2dc99&hm=e59663cbdbabe53b5afbab9d7e3450887a2f4d3cbfb7255bab52aa8f7ab0db16&" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Download Damned
+              <i className="" />Download ChronoRift
             </a>
           </div>
 
@@ -51,26 +51,26 @@ export default function Index() {
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Setting</p>
-                  <p className="text-gray-500 line-clamp-4">Damned is user-friendly with an easy to configure interface.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={``} /> Story Driven Adventure</p>
+                  <p className="text-gray-500 line-clamp-4">A deep and compelling narrative is at the heart of the game. Players will follow the main character, Kael Renhart, as she discovers the connection between her lost memories and the collapse of time. Choices will directly affect the course of the game and determine how events will play out.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Multiplayer</p>
-                  <p className="text-gray-500 line-clamp-4">Damned is a 2D game that you can play online with multiplayer game modes.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={``} /> Action & RPG</p>
+                  <p className="text-gray-500 line-clamp-4">Players will engage in dynamic and strategic battles using weapons from different eras while shaping their battles with temporal anomaly abilities.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
-                  <p className="text-gray-500 line-clamp-4">All your information is confidential and will not be shared with third parties. If shared, you will have the right to sue us due to the terms in the user agreement.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={``} /> Time Manipulation Mechanics</p>
+                  <p className="text-gray-500 line-clamp-4">A special device called the Chrono Core allows players to manipulate time to turn their environment and battles to their advantage.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
-                  <p className="text-gray-500 line-clamp-4">With our best teammates, we provide the fastest response to anyone who needs help.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={``} /> 3D Open World</p>
+                  <p className="text-gray-500 line-clamp-4">ChronoRift features a massive, fully explorable open world. But this world is not just horizontal, it also expands temporally. Players can travel through versions of the same location from different time periods. An abandoned ruin in one era may be a glorious empire in the past.</p>
                 </div>
               </div>
           </div>
