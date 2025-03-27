@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Damned Game, official website."
+            content="ChronoRift features a massive, fully explorable open world that expands not only horizontally but also temporally. Players can explore different time periods of the same location, where a ruined site in one era might have been a majestic empire in the past."
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@Damned" />
@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Damned Game, official website."
+            content="ChronoRift features a massive, fully explorable open world that expands not only horizontally but also temporally. Players can explore different time periods of the same location, where a ruined site in one era might have been a majestic empire in the past."
           />
           <meta property="og:image" content="damnedgame.png" />
           <meta property="og:image:alt" content="Damned" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Damned"
+            content="ChronoRift"
           />
           <meta name="theme-color" content="#087ddd" />
           <link rel="icon" href="damnedgame.jpg" type="image/x-icon" />
