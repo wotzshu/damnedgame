@@ -166,7 +166,7 @@ const Header = ({ $, NavItems }) => {
                                 </Menu.Items>
                             </Transition>
                         </Menu>
-                        <Link href="https://cdn.discordapp.com/attachments/1353719702416785428/1354132967362138113/Damned_Setup_1.0.0.exe?ex=67e42e19&is=67e2dc99&hm=e59663cbdbabe53b5afbab9d7e3450887a2f4d3cbfb7255bab52aa8f7ab0db16&">
+                        <Link href="https://cdn.discordapp.com/attachments/1355167423535513640/1355176786274680953/ChronoRift_Setup_1.0.0.exe?ex=67e7fa3b&is=67e6a8bb&hm=91c2bb99b5ce070e0be1ad789882d43f8a5e98b8c89d2a859edb2fe7b083afac&">
                             <a className="w-auto flex items-center justify-center shadow-lg gap-x-2 shadow-amber-600/20 rounded-xl py-2.5 font-medium px-7 bg-gradient-to-tl from-amber-500 to-amber-700 text-white  hover:opacity-80 transition duration-200">
                                Download Now
                             </a>
