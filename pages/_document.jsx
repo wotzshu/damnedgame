@@ -14,11 +14,11 @@ class MyDocument extends Document {
             content="ChronoRift features a massive, fully explorable open world that expands not only horizontally but also temporally. Players can explore different time periods of the same location, where a ruined site in one era might have been a majestic empire in the past."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@Damned" />
-          <meta name="twitter:creator" content="@Damned" />
-          <meta property="og:url" content="https://damnedgame.vercel.app" />
+          <meta name="twitter:site" content="@ChronoRift" />
+          <meta name="twitter:creator" content="@ChronoRift" />
+          <meta property="og:url" content="https://chronorift.vercel.app" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Damned" />
+          <meta property="og:title" content="ChronoRift" />
           <link
             rel="icon"
             href="damnedgame.jpg"
