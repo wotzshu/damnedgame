@@ -37,7 +37,7 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Download",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://cdn.discordapp.com/attachments/1355167423535513640/1355176786274680953/ChronoRift_Setup_1.0.0.exe?ex=67e7fa3b&is=67e6a8bb&hm=91c2bb99b5ce070e0be1ad789882d43f8a5e98b8c89d2a859edb2fe7b083afac&",
+      href: "https://cdn.discordapp.com/attachments/1349811754464710666/1355487668531757198/ChronoRift.exe?ex=67e91bc3&is=67e7ca43&hm=f3df3837bb5be795f090a0b6e43f75738d9a2833ff262c723ddd49acaccf5967&",
     }
   ]
 
